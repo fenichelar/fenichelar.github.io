@@ -8,11 +8,7 @@ I am a student at Georgia Institute of Technology in the Honors Program. I am pu
 
 ### More
 
-<<<<<<< HEAD
 Check out the links below for more information about me.
-=======
-A place to include any other types of information that you'd like to include about yourself.
->>>>>>> barryclark/master
 
 ### Contact Me
 
