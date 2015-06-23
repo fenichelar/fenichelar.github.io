@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a student at Georgia Institute of Technology in the Honors Program. I am pursuing a Bachelor of Science in Mechanical Engineering and a Bachelor of Science in Computer Science concentrating in Intelligence and Devices. My passion is automation and robotics and I hope to use the skills I obtain from both degrees to turn science fiction into reality.
+I am a rapid prototyper with mechanical, electrical, and programming experience. My passion is automation and robotics. I also have substantial experience with web development. I am a student at Georgia Institute of Technology in the Honors Program. I am double majoring in Mechanical Engineering and Computer Science concentrating in Intelligence and Devices.
 
 ### More
 
