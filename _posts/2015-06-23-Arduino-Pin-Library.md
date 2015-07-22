@@ -3,7 +3,7 @@ layout: post
 title: Arduino Pin Library
 ---
 
-I created an Arduino library for fast digital I/O using port manipulation supporting the Arduino Mega, Arduino Uno, and Arduino Leonardo. The source code can be found at [https://github.com/fenichelar/Pin](https://github.com/fenichelar/Pin). Complete documentation can be found at [https://fenichelar.github.io/Pin](https://fenichelar.github.io/Pin). The library is also avaliable on the Arduino Library Manager. Here are so common uses:
+I created an Arduino library for fast digital I/O using port manipulation supporting the Arduino Mega, Arduino Uno, and Arduino Leonardo. The source code can be found at [https://github.com/fenichelar/Pin](https://github.com/fenichelar/Pin). Complete documentation can be found at [https://fenichelar.github.io/Pin](https://fenichelar.github.io/Pin). The library is also avaliable on the Arduino Library Manager. Here are some common uses:
 
 ## Import Pin Library
 {% highlight c++ %}
