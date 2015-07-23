@@ -3,7 +3,7 @@ layout: post
 title: Arduino Pin Library Version 2.2.1
 ---
 
-I have updated my Arduino Pin library; it is now capable of simultaneous operations on multiple Pins. The library is used for fast digital I/O using port manipulation supporting the Arduino Mega, Arduino Uno, and Arduino Leonardo. The source code can be found at [https://github.com/fenichelar/Pin](https://github.com/fenichelar/Pin). Complete documentation can be found at [https://fenichelar.github.io/Pin](https://fenichelar.github.io/Pin). The library is also avaliable on the Arduino Library Manager. Here are some examples of the new features:
+I have updated my Arduino Pin library; it is now capable of simultaneous operations on multiple Pins. The library is used for fast digital I/O using port manipulation supporting the Arduino Mega, Arduino Uno, and Arduino Leonardo. The source code can be found at [https://github.com/fenichelar/Pin](https://github.com/fenichelar/Pin). Complete documentation can be found at [https://pin.fenichelar.com](https://pin.fenichelar.com). The library is also avaliable on the Arduino Library Manager. Here are some examples of the new features:
 
 #Simultaneous Operations on Multiple Pins
 All Pins in array must use the same DDR and PORT registers. Look at the corresponding file in the boards directory to determine what register each pin uses.
