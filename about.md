@@ -8,8 +8,9 @@ I am a rapid prototyper with mechanical, electrical, and programming experience.
 
 ### More
 
-Check out the links below for more information about me.
+Check out the links below to contact me or for more information.
 
-### Contact Me
-
-[fenichelar@gatech.edu](mailto:fenichelar@gatech.edu)
+* Email - [fenichelar@gatech.edu](mailto:fenichelar@gatech.edu)
+* LinkedIn - [https://linkedin.com/in/fenichelar](https://linkedin.com/in/fenichelar)
+* GitHub - [https://github.com/fenichelar](https://github.com/fenichelar)
+* Resume - [https://resume.fenichelar.com](https://resume.fenichelar.com)
