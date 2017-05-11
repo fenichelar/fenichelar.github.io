@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a rapid prototyper with mechanical, electrical, and programming experience. My passion is automation and robotics. I also have substantial experience with web development. I am a student at Georgia Institute of Technology in the Honors Program. I am double majoring in Mechanical Engineering and Computer Science concentrating in Intelligence and Devices.
+I am a full stack JavaScript developer with experience designing, developing, and deploying highly available production applications from scratch.
 
 ### More
 
