@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a full stack JavaScript developer with experience designing, developing, and deploying highly available applications on AWS.
+I am a full stack JavaScript developer with experience designing, developing, and deploying production applications on AWS.
 
 ### More
 
